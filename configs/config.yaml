@@ -1,0 +1,9 @@
+http:
+  port: 8080
+  shutdownTimeout: 5s
+
+database:
+    server:
+    name: starter
+    user: root
+    password: toor
